@@ -17,6 +17,7 @@ S is a palindrome if:
 - N = 0, or 
 - N = 1, or
 - N >= 2 and S<sub>1</sub> = S<sub>N</sub> and the substring (S<sub>2</sub> ... S<sub>N-1</sub>) is a palindrome.
+ 
 A null pointer in `$a0` is also considered a palindrome.
 
  
